@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayTraderDotNet", "DayTraderDotNet\DayTraderDotNet.csproj", "{A792AF85-36E3-4418-99A8-05F2204AFA65}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FBC5FE60-7002-4CA3-A776-B9B202548582}"
+	ProjectSection(SolutionItems) = preProject
+		project.json = project.json
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
